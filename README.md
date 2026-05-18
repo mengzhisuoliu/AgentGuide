@@ -362,7 +362,7 @@
 招聘方也在用AI筛简历——两个AI在对话，人的主动触达反而更稀缺。
 
 **核心目标公司（5-10家）走人工路线：**
-1. LinkedIn找具体的Hiring Manager或Team Lead
+1. Boss/猎聘找具体的Hiring Manager或Team Lead
 2. 提前关注他们的开源项目/技术Blog
 3. 带着具体问题主动联系（不是「请问还招人吗？」）
 4. 目标：一个warm intro，不是冷申请
